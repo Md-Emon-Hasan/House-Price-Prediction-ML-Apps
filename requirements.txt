@@ -1,0 +1,4 @@
+numpy==1.24.3
+streamlit==1.30.0
+~treamlit==1.24.1
+~treamlit==1.25.0
