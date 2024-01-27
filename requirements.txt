@@ -1,2 +1,4 @@
 numpy
 streamlit
+scikit_learn
+xgboost
