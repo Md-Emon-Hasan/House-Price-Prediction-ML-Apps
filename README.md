@@ -96,11 +96,6 @@ To run this project locally, follow these steps:
 
 ---
 
-
-Certainly! Here's the modified Demo section with the provided link included:
-
----
-
 ## 🌐 Demo
 
 Explore the live demo of the project [here](https://house-price-prediction-ml-apps.onrender.com/).
